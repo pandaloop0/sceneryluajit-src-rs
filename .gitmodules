@@ -1,4 +1,4 @@
 [submodule "luajit2"]
 	path = luajit2
-	url = https://github.com/LuaJIT/LuaJIT.git
+	url = git@github.com:pandaloop0/SceneryLuaJIT.git
 	branch = v2.1
